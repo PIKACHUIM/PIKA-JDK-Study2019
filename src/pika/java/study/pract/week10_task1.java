@@ -1,35 +1,6 @@
 package pika.java.study.pract;
 
 public class week10_task1 {
-<<<<<<< HEAD
-    public void main(String[] args)
-    {
-
-    }
-}
-
-class queue
-{
-    int[] element;
-    int   szie;
-    public queue(int[] inpu)
-    {
-
-    }
-    public void dequeue(int v)
-    {
-
-    }
-    public bool empty()
-    {
-
-    }
-    public getsize()
-    {
-        return
-    }
-}
-=======
     public static void main(String[] args){
         queue test=new queue();                         //新建对象
         System.out.println("当前长度："+test.getsize());//获取长度
@@ -84,4 +55,3 @@ class queue{
         return size;
     }
 }
->>>>>>> 907367e437d5347405242d996649e9145f8457cc
