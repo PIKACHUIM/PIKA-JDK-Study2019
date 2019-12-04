@@ -9,10 +9,11 @@ public class week13_task1 {
         t1.com_mul(t2);show("做乘法：");t1.com_pnt();
         t1.com_sub(t2);show("做减法：");t1.com_pnt();
         t1.com_div(t2);show("做除法：");t1.com_pnt();
+                       show("绝对值：");
+                       System.out.println(t1.com_abs());
     }
     static void show(String in){System.out.print(in);}
 }
-
 class complex{
     public double a;                                   //存储实部
     public double b;                                   //存储虚部
@@ -28,6 +29,7 @@ class complex{
     public void   com_div(complex is){                 //复数除法
         a=a*is.a+b*is.b/(is.a*is.a-is.b*is.b);
         b=a*is.b+b*is.a/(is.a*is.a-is.b*is.b); }
+    public double com_abs(){return a*a+b*b; }
     public String com_str(          ){                 //转换字符
         String t=String.format(" %.4f",a);
         if(b-0.000001!=0)
