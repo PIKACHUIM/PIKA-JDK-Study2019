@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f8e212-1b6c-4bd2-9225-2e1f56d22387" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/提交/.~18141461344-任浩龙-作业08.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/提交/2018141461344-任浩龙-作业08.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/complex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pika/java/study/pract/week13_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pika/java/study/pract/week13_task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week14_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week14_task1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pika/java/study/pract/week14_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pika/java/study/pract/week14_task1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.week13_task1">
+  <component name="RunManager" selected="Application.week14_task1">
     <configuration name="week06_task1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pika.java.study.pract.week06_task1" />
       <module name="PIKA-JAVA-HOMEWORK2019" />
@@ -165,7 +167,7 @@
       <workItem from="1575432606964" duration="3949000" />
       <workItem from="1575448732685" duration="848000" />
       <workItem from="1575876557489" duration="13000" />
-      <workItem from="1576039059807" duration="278000" />
+      <workItem from="1576039059807" duration="997000" />
     </task>
     <servers />
   </component>
