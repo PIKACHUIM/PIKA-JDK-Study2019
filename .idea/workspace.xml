@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f8e212-1b6c-4bd2-9225-2e1f56d22387" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pika/java/study/pract/week14_task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/提交/2018141461344-任浩龙-作业07.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/ATMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/ATMS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Transation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/Transation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/complex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/user.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/user.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week06_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week06_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week06_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week06_task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week07_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week07_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week08_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week08_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week09_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week09_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week10_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week10_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week11_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week11_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week12_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week12_task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week13_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PIKA-JAVA-HOMEWORK2019/pika/java/study/pract/week13_task1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pika/java/study/pract/week13_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pika/java/study/pract/week13_task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pika/java/study/pract/week14_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pika/java/study/pract/week14_task1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.week14_task1">
+  <component name="RunManager" selected="Application.week13_task1">
     <configuration name="week06_task1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pika.java.study.pract.week06_task1" />
       <module name="PIKA-JAVA-HOMEWORK2019" />
@@ -178,7 +162,10 @@
       <workItem from="1574829971480" duration="2283000" />
       <workItem from="1574934317829" duration="17000" />
       <workItem from="1575382576822" duration="5000" />
-      <workItem from="1575432606964" duration="2808000" />
+      <workItem from="1575432606964" duration="3949000" />
+      <workItem from="1575448732685" duration="848000" />
+      <workItem from="1575876557489" duration="13000" />
+      <workItem from="1576039059807" duration="278000" />
     </task>
     <servers />
   </component>
@@ -190,7 +177,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

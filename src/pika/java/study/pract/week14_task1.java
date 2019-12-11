@@ -7,5 +7,5 @@ public class week14_task1 {
 }
 
 class Circle{
-    
+
 }

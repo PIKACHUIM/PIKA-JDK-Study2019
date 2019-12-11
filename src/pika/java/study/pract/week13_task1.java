@@ -14,7 +14,7 @@ public class week13_task1 {
     }
     static void show(String in){System.out.print(in);}
 }
-class complex{
+class complex implements Cloneable{
     public double a;                                   //存储实部
     public double b;                                   //存储虚部
     public complex(                   ){a= 0;b= 0;}    //无参构造
